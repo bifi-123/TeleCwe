@@ -1,0 +1,29 @@
+Trójkąt
+Limit pamięci: 256 MB
+Twoim zadaniem jest stwierdzić, czy z trzech odcinków o podanych długościach można zbudować trójkąt o dodatnim polu.
+
+Wejście
+Pierwszy i jedyny wiersz wejścia zawiera trzy liczby całkowite , ,  (), oddzielone pojedynczymi odstępami. Liczby te oznaczają długości trzech odcinków.
+
+Wyjście
+Twój program powinien wypisać jedno słowo TAK lub NIE, w zależności od tego, czy z odcinków o długościach takich jak na wejściu można zbudować niezdegenerowany trójkąt, czyli trójkąt o dodatnim polu.
+
+Przykład
+Dla danych wejściowych:
+
+8 7 5
+poprawną odpowiedzią jest:
+
+TAK
+a dla danych wejściowych:
+
+1 10 2
+poprawnym wynikiem jest:
+
+NIE
+oraz dla danych wejściowych:
+
+4 4 8
+poprawnym wynikiem jest:
+
+NIE
