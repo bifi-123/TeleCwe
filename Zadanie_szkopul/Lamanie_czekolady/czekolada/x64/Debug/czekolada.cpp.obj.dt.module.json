@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "czekolada\\x64\\Debug\\czekolada.obj",
+            "outputs": [
+                "czekolada\\x64\\Debug\\czekolada.cpp.obj.dt.module.json",
+                "czekolada\\x64\\Debug\\czekolada.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
