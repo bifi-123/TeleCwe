@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "układ_wsp\\x64\\Debug\\układ_wsp.obj",
+            "outputs": [
+                "układ_wsp\\x64\\Debug\\układ_wsp.cpp.obj.dt.module.json",
+                "układ_wsp\\x64\\Debug\\układ_wsp.cpp.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
